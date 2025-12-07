@@ -12,6 +12,6 @@ by Luke Gallagher, Alistair Moffat and Joel Mackenzie.
  author = {L. Gallagher and A. Moffat and J. Mackenzie},
  booktitle = {Proc. SIGIR-AP},
  year = {2025},
- notes = {To appear},
+ pages = {325--330},
 }
 ```
